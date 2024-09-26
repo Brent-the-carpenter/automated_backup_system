@@ -1,0 +1,8 @@
+---
+backup:
+  source_directories:
+    - ./source_directories
+    - ./source_directories
+  local_backup_directory: ./backups
+  remote_backup_directory: /Users/brentharrington/Desktop/repos/backup-test/remote_backup
+...
