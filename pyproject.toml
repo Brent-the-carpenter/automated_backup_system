@@ -10,6 +10,7 @@ python = "^3.12"
 black = "^24.8.0"
 ruff = "^0.6.8"
 pyyaml = "^6.0.2"
+boto3 = "^1.35.28"
 
 
 [build-system]
